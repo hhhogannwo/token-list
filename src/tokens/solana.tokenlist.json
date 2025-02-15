@@ -78324,24 +78324,6 @@
         "twitter": "https://twitter.com/Redpandacoin",
         "website": "https://redpandacoin.com"
       }
-    },
-    {
-      "chainId": 101,
-      "address": "ELEhJznM6WZdR2CVnnkT3Yyj8NUGJpq186tr2MvBKKND",
-      "symbol": "DGT",
-      "name": "Digital-Gold-Token",
-      "decimals": 5,
-      "logoURI": "https://raw.githubusercontent.com/hhhogannwo/Digital-Gold-Token/main/money.png",
-      "tags": [
-      ],
-      "extensions": {
-        "website": "https://real-gold-token.com"
-      }
-    }
-  ],
-  "version": {
-    "major": 0,
-    "minor": 3,
-    "patch": 3
-  }
-}
+    
+
+    
