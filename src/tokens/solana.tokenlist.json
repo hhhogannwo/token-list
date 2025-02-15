@@ -78324,6 +78324,47 @@
         "twitter": "https://twitter.com/Redpandacoin",
         "website": "https://redpandacoin.com"
       }
-    
+    },
+    {
+      "chainId": 101,
+      "address": "ELEhJznM6WZdR2CVnnkT3Yyj8NUGJpq186tr2MvBKKND",
+      "symbol": "DGT",
+      "name": "Digital-Gold-Token",
+      "decimals": 5,
+      "logoURI": "https://raw.githubusercontent.com/hhhogannwo/Digital-Gold-Token/main/money.png",
+      "tags": [
+      ],
+      "extensions": {
+        "website": "https://real-gold-token.com"
+      }
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 3,
+    "patch": 3
+  }
+}
+},
+{
+  "chainId": 101,
+  "address": "3wK1QD9o7yziktFtr8aTS9b5Wq8aBS7aMWQBfLosSrLW",
+  "symbol": "RCT",
+  "name": "Real-Cash-Token",
+  "decimals": 5,
+  "logoURI": "https://raw.githubusercontent.com/hhhogannwo/RealCashCoin/01ef94962d08dac1fcece9c5afe0a2e6f0619e99/RealCashCoin.png",
+  "tags": [
+  ],
+  "extensions": {
+    "website": ""
+  }
+}
+],
+"version": {
+"major": 0,
+"minor": 3,
+"patch": 3
+}
+
 
     
