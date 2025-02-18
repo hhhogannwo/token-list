@@ -77812,14 +77812,6 @@
         "utility-token"
       ],
       "extensions": {
-        "telegram": "https://t.me/hubexnetwork",
-        "website": "https://hubex.org"
-      }
-    },
-    {
-      "chainId": 101,
-      "address": "mZfGzkZ61rjS4UWYwwhPnbJZxfaofUioTAPKvewQHEp",
-      "symbol": "SOLGAME",
       "name": "SOLGAME",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mZfGzkZ61rjS4UWYwwhPnbJZxfaofUioTAPKvewQHEp/logo.png",
@@ -78344,26 +78336,7 @@
     "minor": 3,
     "patch": 3
   }
-},
-{
-  "chainId": 101,
-  "address": "3wK1QD9o7yziktFtr8aTS9b5Wq8aBS7aMWQBfLosSrLW",
-  "symbol": "RCT",
-  "name": "Real-Cash-Token",
-  "decimals": 5,
-  "logoURI": "https://raw.githubusercontent.com/hhhogannwo/RealCashCoin/01ef94962d08dac1fcece9c5afe0a2e6f0619e99/RealCashCoin.png",
-  "tags": [
-  ],
-  "extensions": {
-    "website": ""
-  }
-}
-],
-"version": {
-"major": 0,
-"minor": 3,
-"patch": 3
-}
+]
 {
   "chainId": 101,
   "address": "CZdrSxExYS2H5u9Pz3fx5HpD1pYJGMqdG6nRtDVogXHq",
@@ -78374,6 +78347,6 @@
   "tags": [
     "social-token"
   ]
-},
+}
 
     
